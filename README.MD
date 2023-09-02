@@ -1,28 +1,8 @@
 ## Index Page
 An index page that fetches the data stored in the local storage and displays all the blogs created beforehand in a row. A ***A New Blog Entry*** button allows the user to create a new blog. 
 
-![A screenshot of displaying index page.](/demoImg/1)
-
 ## Blog Page
 A Page that enables users to input the title and content when creating a blog. Users also have the option to edit or delete any blogs they've created. The code consits of **CRUD** operations to create, edit, and delete a blog component. An alert message is displayed when there is a missing field. 
-
-Create a blog: 
-
-![A screenshot of creating a blog.](/demoImg/2) 
-
-![A screenshot of pop-up message after successfully saving a blog.](/demoImg/3)
-
-Edit a blog: 
-
-![A screenshot of editing a blog.](/demoImg/4) 
-
-![A screenshot of pop-up message after successfully editing and saving a blog.](/demoImg/5)
-
-Delete a blog: 
-
-![A screenshot of pop-up message after successfully deleting a blog.](/demoImg/6) 
-
-![A screenshot of index page after deleting a blog.](/demoImg/7) 
 
 ## Requirement
 - Install NodeJS. 
@@ -39,3 +19,27 @@ Delete a blog:
     -  'Enter URL' manually  and **enter the URL** displayed on your terminal. 
 
 [^1]: Read about documentations [here](https://docs.expo.dev/more/expo-cli/#server-url). 
+
+## Demo
+
+**Index Page**: 
+
+![A screenshot of displaying index page.](./demoImg/1.jpg)
+
+**Create a blog**: 
+
+![A screenshot of creating a blog.](./demoImg/2.jpg) 
+
+![A screenshot of pop-up message after successfully saving a blog.](./demoImg/3.jpg)
+
+**Edit a blog:** 
+
+![A screenshot of editing a blog.](./demoImg/4.jpg) 
+
+![A screenshot of pop-up message after successfully editing and saving a blog.](./demoImg/5.jpg)
+
+**Delete a blog**: 
+
+![A screenshot of pop-up message after successfully deleting a blog.](./demoImg/6.jpg) 
+
+![A screenshot of index page after deleting a blog.](./demoImg/7.jpg) 
