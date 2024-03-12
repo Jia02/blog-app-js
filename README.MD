@@ -7,7 +7,8 @@ A Page that enables users to input the title and content when creating a blog. U
 ## Requirement
 - Install NodeJS. 
 - Install Expo Go application from the App Store (iOS) or Play Store (Android). 
-[!IMPORTANT]
+
+> [!IMPORTANT]
 > To connect Expo Go to your local machine, ensure both the mobile device and local machine are on the same WiFi network.
 
 ## Run the App
