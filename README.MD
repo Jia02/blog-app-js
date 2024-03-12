@@ -22,7 +22,7 @@ A Page that enables users to input the title and content when creating a blog. U
 
 ## Demo
 
-Demo Video: Click (here)[https://youtube.com/shorts/7fJ8jQ7Bw7Q?feature=share]
+Demo Video: Click [here](https://youtube.com/shorts/7fJ8jQ7Bw7Q?feature=share)
 
 **Index Page**: 
 
